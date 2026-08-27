@@ -1,1 +1,1 @@
-# R25EF200
+I am Preetham Gowda J S, an engineering student studying Computer Science and Engineering. This repository contains my academic activities, programming exercises, projects, and other work completed as part of my engineering studies. It serves as a record of my learning and development in programming, software development, and related technical skills.
